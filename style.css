@@ -1,0 +1,64 @@
+
+
+div {
+    width :1440px; 
+    min-height: 600px;
+    }
+
+.part1 {margin:100px;
+   background-color: #efe1a0;
+    border: 7px solid #810d1a;}
+
+
+.first {
+    font-family: 'Monsieur La Doulaise', cursive;
+    text-align: center;
+    font-size: 50pt;
+    color: #810d1a;
+    align-content: center;
+}
+
+.first2 {
+    padding-left: 150px; 
+    padding-right: 150px;
+    top: 300px;
+    font-family: 'Meie Script', cursive;
+    font-size: 20pt;
+}
+
+.story  {
+    font-family: 'Metal Mania', cursive;
+    font-size: 40pt;
+    color: #190d81;
+    text-align: center;
+    letter-spacing: 6px;
+}
+
+
+.story2  {
+ 
+    font-family: 'Srisakdi', cursive;
+    font-size: 14pt;
+    color: black; 
+    padding-left: 50px;
+    padding-right: 50px;
+    column-count: 2;
+    column-gap: 50px;
+    column-width: 400px;
+    line-height: 45px;
+}
+
+.quote {text-align: center;
+    color:#d991f1;
+    font-size: 25pt;
+    font-family: 'Julius Sans One', sans-serif;
+    text-decoration: underline;
+}
+
+.quote2 {
+    color:#5c0f76; 
+    text-align: right;
+    font-family: 'Tangerine', cursive;
+    font-size:30pt;
+    padding-right:200px;
+}
